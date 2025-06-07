@@ -41,12 +41,3 @@ This project explores the Titanic dataset to understand the patterns behind pass
 - First class passengers were more likely to survive.
 - Younger children and infants also had higher survival likelihood.
 
-## 📁 Folder Structure
-
-Titanic-EDA/
-├── titanic_eda.ipynb
-├── README.md
-└── screenshots/
-├── gender_survival.png
-└── age_histogram.png
-
