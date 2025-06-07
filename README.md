@@ -34,15 +34,6 @@ This project explores the Titanic dataset to understand the patterns behind pass
    - Numerical Analysis: Age Distribution, Age vs Survival
    - Visualizations: Countplot, Histogram, Boxplot
 
-## 📊 Example Visuals
-
-- Survival by Gender:
-  ![gender_survival](screenshots/gender_survival.png)
-
-- Age Distribution:
-  ![age_histogram](screenshots/age_histogram.png)
-
-*Tip: You can add these plots as images by taking screenshots from your Colab output.*
 
 ## 🧠 Key Insights
 
